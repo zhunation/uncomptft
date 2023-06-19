@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: Uncompt TFT Guides
 nav_exclude: true
 permalink: /:path/
 seo:
