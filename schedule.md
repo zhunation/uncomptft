@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Schedule
-description: The weekly event schedule.
+title: Comp Guides
+description: Comp Guides
 ---
 
-# Weekly Schedule
+# Composition Guides
 
-{% for schedule in site.schedules %}
-{{ schedule }}
-{% endfor %}
+
